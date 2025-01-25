@@ -1,0 +1,19 @@
+{
+  "name": "week1-intro",
+  "version": "1.0.0",
+  "description": "Introduction to nodejs, express and api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "week1-intro"
+  },
+  "author": "Fakile Temitope",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
