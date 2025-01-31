@@ -1,0 +1,13 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "chm 101"
+    },
+    {
+      "id": 4,
+      "name": "chm 102"
+    }
+  ],
+  "id_track": 4
+}
